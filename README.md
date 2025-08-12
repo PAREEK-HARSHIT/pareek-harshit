@@ -3,15 +3,16 @@
 
 Email Me 👉 ✉️ **alamimra** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 **I’m currently working on:** Admin tools & integrations for Monday.com & OnePlan.
+- 🌱 **I’m currently learning:** Advanced Node.js, SQL, real-time systems, React patterns. 
+- 💬 **Ask me about:** Full-stack dev, API integrations, SQL optimization, real-time dashboards.
+- 📫 **How to reach me:** pharshit1229@gmail.com 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left>
+<a href="https://www.linkedin.com/in/harshit-pareek29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harshit_Pareek" height="30" width="40" /></a>
+<a href="https://leetcode.com/Jinesh_Prajapat"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Harshit_Pareek" height="30" width="40" /></a>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshitpareekkk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-pareek29) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pharshit1229@gmail.com) 
