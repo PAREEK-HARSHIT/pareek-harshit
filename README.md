@@ -1,8 +1,6 @@
 # 💫 Hi 👋, I'm Harshit Pareek
 **MERN Stack Developer || AI & DS Undergraduate || 5🌟 SQL HackerRank**
 
-Email Me 👉 ✉️ **alamimra** For Collaboration/Project or Anything Else. 😊😊
-
 - 🔭 **I’m currently working on:** Admin tools & integrations for Monday.com & OnePlan.
 - 🌱 **I’m currently learning:** Advanced Node.js, SQL, real-time systems, React patterns. 
 - 💬 **Ask me about:** Full-stack dev, API integrations, SQL optimization, real-time dashboards.
@@ -30,7 +28,7 @@ Email Me 👉 ✉️ **alamimra** For Collaboration/Project or Anything Else. �
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<!--   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> -->
 </div>
 
 ### ✍️ Random Dev Quote
