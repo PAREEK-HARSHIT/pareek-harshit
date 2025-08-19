@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Harshit Pareek
+#  Hi 👋, I'm Harshit Pareek
 **MERN Stack Developer || AI & DS Undergraduate || 5🌟 SQL HackerRank**
 
 - 🔭 **I’m currently working on:** Admin tools & integrations for Monday.com & OnePlan.
